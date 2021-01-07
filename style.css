@@ -110,6 +110,13 @@ h2{
     border-radius: 5px;
     
 }
+.clients{
+    height: 500px;
+}
+.clients-image img{
+    width: 20%;
+    float: left;
+}
 .icon{
     height: 200px;
 }
