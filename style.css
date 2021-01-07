@@ -11,9 +11,13 @@
     font-weight: 700;
   }
   
-#top-section{
+.top-section{
     height: 500px;
+    background-color: azure;
   }
+.about-section{
+    height: 500px;
+}
 .head-section{
     width: 40%;
     float: left;
